@@ -1,0 +1,5 @@
+{
+  "editor.minimap.renderCharacters": true,
+  "editor.inlineSuggest.suppressSuggestions": false,
+  "css.format.braceStyle": "collapse"
+}
