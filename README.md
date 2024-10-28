@@ -1,4 +1,5 @@
-# [Music Festival](https://pyro-nicolini.github.io/musicFestival/)
+Visit the project here.
+[Music Festival](https://pyro-nicolini.github.io/musicFestival/)
 
 ## Project with Npm, Sass & Gulp
 This project was developed using Npm, Sass, and Gulp to automate tasks and improve code structure. Minification techniques and mixins were implemented to optimize performance and code reusability.
